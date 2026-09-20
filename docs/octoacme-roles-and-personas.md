@@ -200,4 +200,3 @@ Data / Analytics Leads define how project outcomes will be measured and help tea
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - Assign a named owner for each role on a project, even when one person performs multiple roles.
 - Use the interaction guidance to clarify handoffs, decision rights, dependencies, and escalation paths during initiation, planning, execution, and release.
-
